@@ -14,7 +14,7 @@ import br.com.gowinch.model.User;
 @Path("/users")
 public class UserResource {
 
-	
+	//Random comment
 
 	
 	@GET
